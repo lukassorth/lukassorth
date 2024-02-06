@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá! Sou o <strong>Lucas Eduardo Orth</strong>,
  <br>
-  Atualmente trabalhando como desenvolvedor FullStack Flutter.<br>🤝 Desenvolvimento Mobile, Web e Desktop em Grupo K1 S.A.<br>🌱 Estudo contínuo para aprimoramento na área de desenvolvimento de novos serviços e produtos.<br>
+  Atualmente trabalhando como desenvolvedor FullStack Flutter.<br>🤝 Desenvolvimento Mobile e Web em Target Sistemas<br>🌱 Estudo contínuo para aprimoramento na área de desenvolvimento de novos serviços e produtos.<br>
 </p>
 
 **Aplicações e dados**
